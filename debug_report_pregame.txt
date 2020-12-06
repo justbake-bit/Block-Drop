@@ -1,0 +1,46 @@
+===================== START DEBUG REPORT =====================
+==============================================================
+
+OS: Windows 10  (10.0.0) 64bit - Family: Windows
+Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz 3408MHz (8 vcore)
+Device: System Product Name (System manufacturer) - Type: Desktop
+System Memory: 32707MB
+GPU: NVIDIA GeForce RTX 2070 SUPER - Vendor: NVIDIA - Type: Direct3D11 - Version: Direct3D 11.0 [level 11.1] - Memory: 8011MB - Shader: 50
+Process: 64 bits - CLR Version: 4.0.30319.42000
+Commandline arguments: D:\Unity\2019.4.15f1\Editor\Unity.exe -projectpath D:/Unity/Projects/Block-Drop -useHub -hubIPC -cloudEnvironment production -hubSessionId 5ccf2760-37aa-11eb-baf6-f1ad0f6926a6 -accessToken _WZ1PWvyQbSjxcXJx03rROvEyqLUq8LvTnj1YhFYHTY003f
+
+{
+  "PatchDownloadAttempts": 3,
+  "RemoteUrl": "http://localhost/patch",
+  "RootPath": "D:\\Unity\\Projects\\Block-Drop\\PATCHWorkspace\\TestLauncher",
+  "AppDataPath": "C:/Users/justi/AppData/LocalLow/Ouroboros/Block Drop",
+  "GameFolderName": "Game",
+  "EncryptionKeyphrase": "dwqqe2231ffe32",
+  "BuildsFolderName": "Builds",
+  "PatchesFolderName": "Patches",
+  "UpdaterFolderName": "Updater",
+  "LogsFolderName": "Logs",
+  "TempFolderName": "Temp",
+  "VersionFileName": "version.data",
+  "BuildsIndexFileName": "builds_index.json",
+  "BuildDefinitionFileName": "build_{0}.json",
+  "PatchesIndexFileName": "patches_index.json",
+  "PatchFileName": "{0}_{1}.zip",
+  "PatchDefinitionFileName": "{0}_{1}.json",
+  "UpdaterIndexFileName": "updater_index.json",
+  "LogsFileName": "logs-.txt",
+  "LaunchArgumentParameter": "--launchArgument",
+  "LaunchArgumentValue": "Qjshn1k!ncS_298"
+}
+
+GetLogsFilePath() => D:\Unity\Projects\Block-Drop\PATCHWorkspace\TestLauncher\Logs\logs-.txt
+GetVersionFilePath() => D:\Unity\Projects\Block-Drop\PATCHWorkspace\TestLauncher\Game\version.data
+GetGamePath() => D:\Unity\Projects\Block-Drop\PATCHWorkspace\TestLauncher\Game
+GetTempPath() => C:/Users/justi/AppData/LocalLow/Ouroboros/Block Drop\Temp
+GetRemoteBuildsIndexUrl() => http://localhost/patch/Builds/builds_index.json
+GetRemotePatchesIndexUrl() => http://localhost/patch/Patches/patches_index.json
+GetRemoteUpdaterIndexUrl() => http://localhost/patch/Updater/updater_index.json
+
+
+====================== END DEBUG REPORT ======================
+==============================================================
